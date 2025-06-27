@@ -1,4 +1,4 @@
-# My Assistant App 🤖
+# My A.I Assistant App 🤖
 
 An AI-powered assistant built with modern frontend technologies. It integrates with APIs (like OpenAI or others) to provide dynamic and intelligent responses, making it a handy personal chatbot or productivity assistant.
 
