@@ -6,7 +6,7 @@ An AI-powered assistant built with modern frontend technologies. It integrates w
 
 ## 🚀 Live Demo
 
-🌐 https://my-ai-assistant-vicky.netlify.app/
+🌐 https://ai-assistant-vicky.netlify.app
 
 > _Hosted on Netlify– fast and serverless.
 
